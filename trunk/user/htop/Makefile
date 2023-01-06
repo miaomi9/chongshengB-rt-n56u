@@ -1,5 +1,5 @@
-SRC_NAME = htop-2.0.2
-SRC_URL = https://raw.githubusercontent.com/miaomi9/chongshengB-rt-n56u/master/trunk/user/htop/htop-2.2.0.tar.gz
+SRC_NAME = htop-3.0.2
+SRC_URL = https://github.com/hanwckf/rt-n56u/raw/master/trunk/user/htop/htop-3.0.2.tar.gz
 THISDIR = $(shell pwd)
 
 all: download_test extract_test config_test
